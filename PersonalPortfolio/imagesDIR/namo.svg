@@ -1,0 +1,9 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <defs>
+    <clipPath id="shape">
+      <path id="blob" d="M426,346Q361,442,262,421.5Q163,401,82,325.5Q1,250,82.5,176Q164,102,253,96Q342,90,416.5,170Q491,250,426,346Z" fill="#d1d8e0"></path>
+    </clipPath>
+  </defs>
+  <image x="0" y="0" width="100%" height="100%" clip-path="url(#shape)" xlink:href="naman.jpg" preserveAspectRatio="none"></image>
+</svg>
+
